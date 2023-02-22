@@ -1,0 +1,11 @@
+.menu-items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: baseline;
+    align-content: space-around;
+    row-gap: 45px;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
